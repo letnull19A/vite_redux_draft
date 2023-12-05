@@ -1,0 +1,13 @@
+.accordion {
+    background-color: #9c9c9c;
+
+    &_header {
+        background-color: #cecece;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    
+    &_body {
+    }
+}
